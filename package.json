@@ -1,0 +1,19 @@
+{
+  "name": "create---help",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create---help": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrabulinski/create---help.git"
+  },
+  "author": "Nikodem Rabulinski <nikodem@rabulinski.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrabulinski/create---help/issues"
+  },
+  "homepage": "https://github.com/nrabulinski/create---help#readme"
+}
